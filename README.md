@@ -1,2 +1,3 @@
-[![cduyzh's github stats](https://github-readme-stats.vercel.app/api?username=cduyzh&count_private=true&show_icons=true&theme=vue&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+🤖 AI × Web × 独立开发
+🚀 从 0 到 1 打造可真实访问、持续迭代的个人产品
+🧩 开源自己在 AI 实践中产出的项目、工具与
