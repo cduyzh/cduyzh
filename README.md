@@ -11,59 +11,17 @@
 
 ## 💻 代表项目 / Projects
 
-<a href="https://github.com/cduyzh/hsr-endgame-archive-cn"><img src="assets/card-hsr.svg" width="100%" alt="HSR Endgame Archive"></a>
+欢迎访问我的个人网站 [https://www.cduyzh.top/](https://www.cduyzh.top/) 获取以下已上线项目：
 
-<b>《崩坏：星穹铁道》终局竞速档案与数据分析平台。</b><br>
-用于收录和展示终局竞速记录，提供复杂条件筛选、环境统计、投稿审核、游戏数据同步与 Serverless API 等完整能力。
-
-<a href="https://github.com/cduyzh/hsr-endgame-archive-cn"><img src="https://img.shields.io/github/stars/cduyzh/hsr-endgame-archive-cn?style=for-the-badge&logo=github&label=hsr-endgame-archive&color=58a6ff" alt="GitHub"></a>
-
-<br><br>
-
-<a href="https://github.com/cduyzh/mahjong-score-miniapp"><img src="assets/card-mahjong.svg" width="100%" alt="Mahjong Score Mini App"></a>
-
-<b>面向线下牌局场景的微信小程序实时记分工具。</b><br>
-支持多人实时同步记分、撤销、历史牌局查询以及自动生成积分结算方案。
-
-<a href="https://github.com/cduyzh/mahjong-score-miniapp"><img src="https://img.shields.io/github/stars/cduyzh/mahjong-score-miniapp?style=for-the-badge&logo=github&label=mahjong-score-miniapp&color=3fb950" alt="GitHub"></a>
-
-<br><br>
-
-<a href="https://github.com/cduyzh/webpack-plugin-thirdparty-upload"><img src="assets/card-webpack.svg" width="100%" alt="Webpack Third-party Upload Plugin"></a>
-
-<b>用于 Web 构建产物自动发布的 Webpack 插件。</b><br>
-支持将构建产物自动上传至第三方对象存储，并结合 CDN 等服务完成自动化发布流程。
-
-<a href="https://github.com/cduyzh/webpack-plugin-thirdparty-upload"><img src="https://img.shields.io/github/stars/cduyzh/webpack-plugin-thirdparty-upload?style=for-the-badge&logo=github&label=webpack-upload-plugin&color=a371f7" alt="GitHub"></a>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## 🛠 技术栈 / Tech Stack
-
-```text
-前端: TypeScript · JavaScript · Vue · React
-工程化: Vite · Webpack · pnpm · Git
-服务端: Node.js · Serverless Functions · PostgreSQL
-平台: 微信小程序 · Netlify · Docker
-AI: ChatGPT · Codex · AI-assisted Development
-```
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## 🧠 AI × 软件工程 / AI Native
-
-我正在尝试建立一种新的开发模式：**开发者负责目标、判断与决策，AI 参与分析、实现、检查与执行。**
-
-```ts
-const currentFocus = {
-  building: 'AI 驱动的 Web 产品',
-  exploring: 'AI Native 软件工程',
-  improving: '开发流程与工程自动化',
-  shipping: '真正有人使用的小产品',
-}
-```
-
-希望逐步把 AI 从 **代码补全工具** 变成 **软件工程协作者**。
+- [**星穹铁道竞速档案站｜终局配队与低金通关攻略**](https://www.cduyzh.top/)：收录《崩坏：星穹铁道》各类终局玩法的真实通关记录，支持复杂条件筛选与实战视频查找。
+- [**崩坏：星穹铁道 · 终局血量膨胀趋势可视化**](https://www.cduyzh.top/)：汇总历期怪物血量数据，通过交互式趋势图直观展示游戏数值膨胀情况与难度变化。
+- [**月来信**](https://www.cduyzh.top/)：专注隐私的经期规律记录与伴侣关怀提醒工具，以温和克制的设计守护身心节奏。
+- [**成都区级降雨与精细网格气象**](https://www.cduyzh.top/)：聚焦成都超局地降水，汇聚雷达反射率与短时临近预报，提供精细化的降水时间轴推演。
+- [**未发售游戏前瞻与发售日聚合**](https://www.cduyzh.top/)：追踪全球新游发售日更迭与平台排期，建立结构清晰的发售倒计时与期待度前瞻时间轴。
+- [**GPT Image 提示词工作库**](https://www.cduyzh.top/)：模块化的生成式图像提示词资产库，支持积木式拼装光影与艺术风格。
+- [**星铁强敌弱点与战斗机制速查**](https://www.cduyzh.top/)：高难度关卡首领属性弱点、韧性值与核心应对策略的高效率资料速查工具。
+- [**人物立绘与角色卡片自动化工作流**](https://www.cduyzh.top/)：基于轻量 AI 工作流，将人物设定自动拆解并产出高一致性的角色卡片排版。
+- [**AI 大模型 SVG 动画能力大比拼：熊猫骑行实验室**](https://www.cduyzh.top/)：实测并对比主流 AI 大模型生成 SVG 动画的实际表现效果。
 
 <img src="assets/divider.svg" width="100%" alt="">
 
