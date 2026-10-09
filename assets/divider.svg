@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 40" width="1300" height="40">
+  <defs>
+    <style>
+      .line {
+        fill: none;
+        stroke: #30363d;
+        stroke-width: 1;
+      }
+      .dot {
+        fill: #58a6ff;
+        animation: slideRight 6s infinite linear;
+      }
+      @keyframes slideRight {
+        0% { transform: translateX(0); opacity: 0; }
+        10% { opacity: 1; }
+        90% { opacity: 1; }
+        100% { transform: translateX(1300px); opacity: 0; }
+      }
+    </style>
+  </defs>
+  <line x1="0" y1="20" x2="1300" y2="20" class="line" />
+  <circle cx="0" cy="20" r="3" class="dot" />
+</svg>

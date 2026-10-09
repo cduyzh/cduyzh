@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 260" width="1300" height="260">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      
+      .title {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-size: 56px;
+        font-weight: 800;
+        fill: #c9d1d9;
+      }
+      .subtitle {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-size: 26px;
+        font-weight: 600;
+        fill: #8b949e;
+      }
+      .desc {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-size: 20px;
+        font-weight: 400;
+        fill: #8b949e;
+      }
+      .highlight {
+        fill: #58a6ff;
+      }
+      .highlight-green {
+        fill: #3fb950;
+      }
+      
+      .cursor {
+        fill: #58a6ff;
+        animation: blink 1s step-end infinite;
+      }
+      @keyframes blink {
+        50% { opacity: 0; }
+      }
+      
+      .glow-blue {
+        fill: #58a6ff;
+        filter: blur(40px);
+        opacity: 0.15;
+        animation: pulse 4s infinite alternate;
+      }
+      .glow-green {
+        fill: #3fb950;
+        filter: blur(40px);
+        opacity: 0.1;
+        animation: pulse 5s infinite alternate-reverse;
+      }
+      @keyframes pulse {
+        0% { opacity: 0.05; transform: scale(0.9); }
+        100% { opacity: 0.2; transform: scale(1.1); }
+      }
+
+      .slide-up {
+        animation: slideUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+        opacity: 0;
+      }
+      @keyframes slideUp {
+        from { transform: translateY(20px); opacity: 0; }
+        to { transform: translateY(0); opacity: 1; }
+      }
+
+      .delay-1 { animation-delay: 0.2s; }
+      .delay-2 { animation-delay: 0.4s; }
+      .delay-3 { animation-delay: 0.6s; }
+
+    </style>
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <rect width="40" height="40" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+      <circle cx="40" cy="40" r="1" fill="rgba(255,255,255,0.1)"/>
+    </pattern>
+    <clipPath id="rectClip">
+      <rect width="1300" height="260" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rectClip)">
+    <rect width="1300" height="260" class="bg"/>
+    <rect width="1300" height="260" fill="url(#gridPattern)"/>
+    
+    <circle cx="200" cy="0" r="180" class="glow-blue" />
+    <circle cx="1100" cy="260" r="200" class="glow-green" />
+
+    <g transform="translate(100, 100)">
+      <g class="slide-up delay-1">
+        <text x="0" y="0" class="title">
+          cduyzh
+        </text>
+        <rect x="225" y="-45" width="22" height="50" class="cursor" />
+      </g>
+    </g>
+
+    <g transform="translate(100, 160)">
+      <text x="0" y="0" class="subtitle slide-up delay-2">
+        <tspan class="highlight">高级 Web 前端开发</tspan> · AI × Web · <tspan class="highlight-green">独立开发</tspan>
+      </text>
+    </g>
+    
+    <g transform="translate(100, 205)">
+      <text x="0" y="0" class="desc slide-up delay-3">
+        用 TypeScript / Vue / React / Node.js / AI 构建真正可访问、可使用、可持续迭代的产品。
+      </text>
+    </g>
+  </g>
+</svg>

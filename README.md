@@ -1,86 +1,58 @@
-<div align="center">
+<a href="https://github.com/cduyzh"><img src="assets/header.svg" width="100%" alt="cduyzh · 高级 Web 前端开发 · AI × Web · 独立开发"></a>
 
-# cduyzh
+<b>关于我：高级 Web 前端开发工程师，长期关注现代 Web 应用、前端工程化、开发者工具与 AI 辅助软件开发。</b><br>
+相比单纯完成页面开发，我更喜欢把一个想法真正做成产品：<br>
+<b>需求分析 → 技术设计 → 开发 → 测试 → 部署 → 持续迭代</b><br>
 
-**高级 Web 前端开发 · AI × Web · 独立开发**
+<a href="https://github.com/cduyzh?tab=repositories"><img src="https://img.shields.io/github/stars/cduyzh?style=for-the-badge&logo=github&label=stars&color=58a6ff" alt="total stars"></a>
+<a href="https://github.com/cduyzh?tab=followers"><img src="https://img.shields.io/github/followers/cduyzh?style=for-the-badge&logo=github&label=followers&color=3fb950" alt="followers"></a>
 
-用 **TypeScript / Vue / React / Node.js / AI**
-构建真正可访问、可使用、可持续迭代的产品。
+<img src="assets/divider.svg" width="100%" alt="">
 
-[代表项目](#代表项目) · [技术栈](#技术栈) · [GitHub](https://github.com/cduyzh)
+## 💻 代表项目 / Projects
 
-</div>
+<a href="https://github.com/cduyzh/hsr-endgame-archive-cn"><img src="assets/card-hsr.svg" width="100%" alt="HSR Endgame Archive"></a>
 
-<br />
-
-## 关于我
-
-高级 Web 前端开发工程师，长期关注 **现代 Web 应用、前端工程化、开发者工具与 AI 辅助软件开发**。
-
-相比单纯完成页面开发，我更喜欢把一个想法真正做成产品：
-
-**需求分析 → 技术设计 → 开发 → 测试 → 部署 → 持续迭代**
-
-目前正在重点探索：
-
-> **如何让 AI 不只是生成代码，而是真正参与完整的软件工程流程。**
-
-```text
-想法 → 需求 → 设计 → 开发 → Review → 部署 → 迭代
-                     ↑
-                    AI
-```
-
-## 代表项目
-
-### [HSR Endgame Archive](https://github.com/cduyzh/hsr-endgame-archive-cn)
-
-《崩坏：星穹铁道》终局竞速档案与数据分析平台。
-
-`Vue 3` · `TypeScript` · `Pinia` · `Vite` · `Netlify Functions` · `PostgreSQL`
-
+<b>《崩坏：星穹铁道》终局竞速档案与数据分析平台。</b><br>
 用于收录和展示终局竞速记录，提供复杂条件筛选、环境统计、投稿审核、游戏数据同步与 Serverless API 等完整能力。
 
----
+<a href="https://github.com/cduyzh/hsr-endgame-archive-cn"><img src="https://img.shields.io/github/stars/cduyzh/hsr-endgame-archive-cn?style=for-the-badge&logo=github&label=hsr-endgame-archive&color=58a6ff" alt="GitHub"></a>
 
-### [Mahjong Score Mini App](https://github.com/cduyzh/mahjong-score-miniapp)
+<br><br>
 
-面向线下牌局场景的微信小程序实时记分工具。
+<a href="https://github.com/cduyzh/mahjong-score-miniapp"><img src="assets/card-mahjong.svg" width="100%" alt="Mahjong Score Mini App"></a>
 
-`WeChat Mini Program` · `Cloud Functions` · `Cloud Database`
-
+<b>面向线下牌局场景的微信小程序实时记分工具。</b><br>
 支持多人实时同步记分、撤销、历史牌局查询以及自动生成积分结算方案。
 
----
+<a href="https://github.com/cduyzh/mahjong-score-miniapp"><img src="https://img.shields.io/github/stars/cduyzh/mahjong-score-miniapp?style=for-the-badge&logo=github&label=mahjong-score-miniapp&color=3fb950" alt="GitHub"></a>
 
-### [Webpack Third-party Upload Plugin](https://github.com/cduyzh/webpack-plugin-thirdparty-upload)
+<br><br>
 
-用于 Web 构建产物自动发布的 Webpack 插件。
+<a href="https://github.com/cduyzh/webpack-plugin-thirdparty-upload"><img src="assets/card-webpack.svg" width="100%" alt="Webpack Third-party Upload Plugin"></a>
 
-`Node.js` · `Webpack` · `Cloud Storage`
-
+<b>用于 Web 构建产物自动发布的 Webpack 插件。</b><br>
 支持将构建产物自动上传至第三方对象存储，并结合 CDN 等服务完成自动化发布流程。
 
-## 技术栈
+<a href="https://github.com/cduyzh/webpack-plugin-thirdparty-upload"><img src="https://img.shields.io/github/stars/cduyzh/webpack-plugin-thirdparty-upload?style=for-the-badge&logo=github&label=webpack-upload-plugin&color=a371f7" alt="GitHub"></a>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 🛠 技术栈 / Tech Stack
 
 ```text
-前端
-TypeScript · JavaScript · Vue · React
-
-工程化
-Vite · Webpack · pnpm · Git
-
-服务端
-Node.js · Serverless Functions · PostgreSQL
-
-平台
-微信小程序 · Netlify · Docker
-
-AI
-ChatGPT · Codex · AI-assisted Development
+前端: TypeScript · JavaScript · Vue · React
+工程化: Vite · Webpack · pnpm · Git
+服务端: Node.js · Serverless Functions · PostgreSQL
+平台: 微信小程序 · Netlify · Docker
+AI: ChatGPT · Codex · AI-assisted Development
 ```
 
-## 当前关注
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 🧠 AI × 软件工程 / AI Native
+
+我正在尝试建立一种新的开发模式：**开发者负责目标、判断与决策，AI 参与分析、实现、检查与执行。**
 
 ```ts
 const currentFocus = {
@@ -91,64 +63,13 @@ const currentFocus = {
 }
 ```
 
-## AI × 软件工程
+希望逐步把 AI 从 **代码补全工具** 变成 **软件工程协作者**。
 
-我正在尝试建立一种新的开发模式：
-
-**开发者负责目标、判断与决策，AI 参与分析、实现、检查与执行。**
-
-例如：
-
-```text
-产品需求
-   ↓
-AI 需求审视
-   ↓
-开发方案设计
-   ↓
-AI / Developer Coding
-   ↓
-Code Review
-   ↓
-自动化测试
-   ↓
-Build / Deploy
-   ↓
-线上反馈
-   ↓
-下一轮迭代
-```
-
-希望逐步把 AI 从：
-
-**代码补全工具**
-
-变成：
-
-**软件工程协作者**
-
-## GitHub
+<img src="assets/divider.svg" width="100%" alt="">
 
 <div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=cduyzh&show_icons=true&hide_border=true&hide_title=true&rank_icon=github"
-height="150"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=cduyzh&layout=compact&hide_border=true&hide_title=true&langs_count=6"
-height="150"
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=cduyzh&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cduyzh&layout=compact&hide_border=true&hide_title=true&langs_count=6&theme=transparent" height="150" />
 </div>
 
-<br />
-
-<div align="center">
-
-**持续构建 · 持续交付 · 持续迭代**
-
-<sub>AI × Web × Products</sub>
-
-</div>
+<a href="https://github.com/cduyzh"><img src="assets/footer.svg" width="100%" alt="持续构建 · 持续交付 · 持续迭代"></a>
